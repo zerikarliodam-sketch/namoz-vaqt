@@ -63,8 +63,8 @@
     <footer>
       <p class="author">
         made by
-        <a target="_blank" rel="noreferrer" href="https://dasturchioka.uz"
-          >dasturchioka</a
+        <a target="_blank" rel="noreferrer" href="https://instagram.com/car1movvvv"
+          >Netlivy</a
         >
       </p>
     </footer>
