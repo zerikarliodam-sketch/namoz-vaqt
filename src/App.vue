@@ -64,7 +64,7 @@
       <p class="author">
         made by
         <a target="_blank" rel="noreferrer" href="https://instagram.com/car1movvvv"
-          >Netlivy</a
+          >Netlivy®</a
         >
       </p>
     </footer>
